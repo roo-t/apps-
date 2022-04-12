@@ -53,8 +53,8 @@ display: inline-block;
 }
 .card-devs a:hover {
 color: #e8effa;
-background-color: #efebf7;
-border: 2px solid #443054;
+background-color: #443054;
+border: 2px solid #efebf7;
 }
 @font-face {
 font-family: Font;
